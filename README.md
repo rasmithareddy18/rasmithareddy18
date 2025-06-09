@@ -21,7 +21,7 @@ My work combines technical rigor with real-world impact, and I'm passionate abou
 
 ## 🛠 Technical Proficiencies
 
-- **Languages & Libraries**: Python (Pandas, GeoPandas, Rasterio, Streamlit), R, SQL  
+- **Languages & Libraries**: Python (Pandas, GeoPandas, Rasterio, Streamlit)
 - **GIS & RS Tools**: ArcGIS Pro, QGIS, Google Earth Engine  
 - **Visualization**: Plotly, Tableau, Dash, Leaflet  
 - **Modeling**: Urban simulation, scenario planning, spatial statistics  
@@ -35,6 +35,7 @@ Maps neighborhood vulnerability to extreme heat and flooding by integrating sate
 
 ### Neighborhood Energy Footprint Estimator  
 Estimates energy use and emissions by simulating how land use and mobility patterns affect carbon intensity at a local level.
+
 ---
 
 ## Interests
